@@ -1,0 +1,6 @@
+# Default ignored files
+lakepend/.idea
+lakepend/.lein-repl-history
+lakepend/.nrepl-port
+lakepend/target
+lakepend/lakepend.iml
